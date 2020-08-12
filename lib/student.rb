@@ -34,6 +34,7 @@ class Student
     new.id = row[0]
     new.name = row[1]
     new.grade = row[2]
+    binding.pry
 
   end
 
