@@ -33,7 +33,8 @@ class Student
     new = Student.new
     new.id = row[0]
     new.name = row[1]
-    new.grade = row[2]x
+    new.grade = row[2]
+    student
   end
 
 
